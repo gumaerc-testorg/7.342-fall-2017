@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
+parent_uid: 2af1d6d3-f1b8-767c-5c04-5acda8ef540f
 resourcetype: Document
 title: Week 8 Handout
 uid: 0c5da445-4196-39d2-e1a9-efde2be5b572
