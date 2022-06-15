@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Class introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week1)
+{{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week1" %}}
 
 
 {{< tdclose >}}
@@ -56,7 +58,7 @@ Ruben, Adam. "[How to Read a Scientific Paper](http://www.sciencemag.org/careers
 
 Potency and pluripotent stem cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week2)
+{{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week2" %}}
 
 
 {{< tdclose >}}
@@ -80,7 +82,7 @@ Takahashi, Kazutoshi, and Shinya Yamanaka. "[Induction of Pluripotent Stem Cells
 
 Signatures and mechanisms of pluripotency: Transcriptional networks
 
- [See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week3)﻿
+ {{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week3" %}}﻿
 
 
 {{< tdclose >}}
@@ -104,7 +106,7 @@ Ang, Yin-Sin, Sui-Yi Tsai, et al. "[Wdr5 Mediates Self–Renewal and Reprogrammi
 
 Signatures and mechanisms of pluripotency: Bivalent chromatin domains
 
- [See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week4)
+ {{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week4" %}}
 
 
 {{< tdclose >}}
@@ -128,7 +130,7 @@ Lesch, Bluma J., Sherman J. Silber, et al. "[Parallel Evolution of Male Germline
 
 Germ cell identity
 
- [See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week5)
+ {{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week5" %}}
 
 
 {{< tdclose >}}
@@ -152,7 +154,7 @@ Ohinata, Yasuhide, Hiromichi Ohta, et al. "[A Signaling Principle for the Specif
 
 Reprogramming of germ cells and stem cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week6)
+{{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week6" %}}
 
 
 {{< tdclose >}}
@@ -176,7 +178,7 @@ Hayashi, Katsuhiko, Hiromichi Ohta, et al. "[Reconstitution of the Mouse Germ Ce
 
 Reprogramming soma by pioneer transcription factors
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week7)
+{{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week7" %}}
 
 
 {{< tdclose >}}
@@ -200,7 +202,7 @@ Wapinski, Orly L., Thomas Vierbuchen, et al. "[Hierarchical Mechanisms for Direc
 
 Defining hematopoietic identities: Part 1
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week8)
+{{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week8" %}}
 
 
 {{< tdclose >}}
@@ -224,7 +226,7 @@ Miyamoto, Toshihiro, Hironori Iwasaki, et al. "[Myeloid or Lymphoid Promiscuity 
 
 Defining hematopoietic identities: Part 2
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week9)
+{{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week9" %}}
 
 
 {{< tdclose >}}
@@ -248,7 +250,7 @@ Velten, Lars, San Francisco Haas, et al. "[Human Haematopoietic Stem Cell Lineag
 
 Regulatory mechanisms for immune cell identity: Chromatin and transcription factors
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week10)
+{{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week10" %}}
 
 
 {{< tdclose >}}
@@ -272,7 +274,7 @@ Oravecz, Attila, Apostol Apostolov, et al. "[Ikaros Mediates Gene Silencing in T
 
 Regulatory mechanisms for immune cell identity: Cell signaling
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week11)
+{{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week11" %}}
 
 
 {{< tdclose >}}
@@ -296,7 +298,7 @@ Veldhoen, Marc, Richard J. Hocking, et al. "[TGFβ in the Context of an Inflamma
 
 Disorders of cell identity: The reproductive tract and germ cell identity
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week12)
+{{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week12" %}}
 
 
 {{< tdclose >}}
@@ -320,7 +322,7 @@ Unhavaithaya, Y., T. H. Shin, et al. "[MEP–1 and a Homolog of the NURD Complex
 
 Disorders of cell identity: Hematopoiesis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week13)
+{{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week13" %}}
 
 
 {{< tdclose >}}
@@ -344,7 +346,7 @@ Tremblay, Mathieu, Cedric S. Tremblay, et al. "[Modeling T–cell Acute Lymphobl
 
 Cellular reprogramming and therapeutics
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week14)
+{{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week14" %}}
 
 
 {{< tdclose >}}
@@ -368,7 +370,7 @@ Cao, Nan, Huang Yu, et al. "[Conversion of Human Fibroblasts into Functional Car
 
 Oral presentations and evaluations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week15)
+{{% resource_link 2af1d6d3-f1b8-767c-5c04-5acda8ef540f "See the Lecture Summary" "#week15" %}}
 
 
 {{< tdclose >}}
