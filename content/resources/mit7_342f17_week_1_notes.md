@@ -5,6 +5,7 @@ file: /courses/7-342-how-to-build-an-animal-cell-fate-and-identity-in-developmen
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 1 Notes
 uid: 808fa384-9459-06bb-31c3-d7b413771e38
 ---
 This file contains information regarding  week 1 notes.
-

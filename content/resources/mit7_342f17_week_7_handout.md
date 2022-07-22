@@ -5,6 +5,7 @@ file: /courses/7-342-how-to-build-an-animal-cell-fate-and-identity-in-developmen
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 7 Handout
 uid: b1ad2a02-fffc-6362-168f-fe4e645c8789
 ---
 This file contains information regarding  week 7 handout.
-
