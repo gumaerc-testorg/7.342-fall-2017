@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains lecture summaries for every week.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 2af1d6d3-f1b8-767c-5c04-5acda8ef540f
 ---
@@ -39,7 +43,7 @@ Class introduction
     *   How biology defines cell "identity" and "fate"—what constitutes a cell's identity?
     *   Regulation of gene expression (transcriptional, post-transcriptional, translational)
 
-[Week 1 handout (PDF)]({{< baseurl >}}/resources/mit7_342f17_week_1_handout)
+{{% resource_link 41eff6d8-9f31-20d5-9f27-d8bb906e4aff "Week 1 handout (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -61,7 +65,7 @@ Potency and pluripotent stem cells
 
 {{< anchor "week2" >}}{{< /anchor >}}A critical feature of a given cell's identity is its potency: The degree to which a cell is able to give rise to multiple differentiated cell lineages. Characterization of pluripotent stem cells, which are often derived from embryonic cells, has provided insight into the molecular features that permit pluripotency in early development. This week we will read a classic paper that helped define "embryonic stem cells" as well as a more recent research report that characterized fundamental molecular signatures of pluripotent stem cells.
 
-[Week 2 handout (PDF)]({{< baseurl >}}/resources/mit7_342f17_week_2_handout)
+{{% resource_link 4b5ee221-a6d4-3ac4-89f0-42d671071ddd "Week 2 handout (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -79,7 +83,7 @@ Signatures and mechanisms of pluripotency: Transcriptional networks
 
 {{< anchor "week3" >}}{{< /anchor >}}Following the discovery and initial characterization of pluripotent stem cells, several open questions remained on how pluripotent stem cells are derived and maintain their potency. Some of these mechanisms have been elucidated through functional characterization of specific pluripotency factors, such as the core transcription factor Nanog and the histone methyltransferase Wdr5. The two papers we will read this week focus on these essential factors, which work to maintain a specific transcriptional state and chromatin environment (i.e., the spatial organization of the genome within the nucleus) that is conducive for pluripotency.
 
-[Week 3 handout (PDF)]({{< baseurl >}}/resources/mit7_342f17_week_3_handout)
+{{% resource_link aae206d2-2473-d5c7-be0b-1bc52c485db1 "Week 3 handout (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -145,7 +149,7 @@ Reprogramming soma by pioneer transcription factors
 
 {{< anchor "week7" >}}{{< /anchor >}}While it is generally thought that a cell's developmental potential becomes restricted as it commits to a somatic fate, forced expression of specific transcription factors can induce fate-switching in somatic cells. Termed pioneer transcription factors, these factors are thought to activate certain transcriptional programs by binding the promoters of genes necessary for somatic development. This week we will read a classic paper that identified the first pioneer transcription factor, MyoD, the expression of which causes fibroblasts to switch to a muscle cell fate. We will then explore the molecular events that follow the expression of pioneer transcription factors and lead to reprogramming of fibroblasts to neurons.
 
-[Week 7 handout (PDF)]({{< baseurl >}}/resources/mit7_342f17_week_7_handout)
+{{% resource_link b1ad2a02-fffc-6362-168f-fe4e645c8789 "Week 7 handout (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -163,7 +167,7 @@ Defining hematopoietic identities: Part 1
 
 {{< anchor "week8" >}}{{< /anchor >}}The immune system is composed of numerous specialized cell types called hematopoietic blood cells, and the process through which these cells differentiate from a stem cell to their final cell fate is called hematopoiesis. Given the diversity in the types of hematopoietic cells and their involvement in numerous diseases, such as autoimmune disease and cancer, hematopoietic cell-fate decisions and identity have been an area of intense research for decades. This week we will read papers that were critical in the early understanding of how common hematopoietic progenitor cells give rise to their specialized, differentiated daughter cells.
 
-[Week 8 handout (PDF)]({{< baseurl >}}/resources/mit7_342f17_week_8_handout)
+{{% resource_link 0c5da445-4196-39d2-e1a9-efde2be5b572 "Week 8 handout (PDF)" %}}
 
 
 {{< tdclose >}}

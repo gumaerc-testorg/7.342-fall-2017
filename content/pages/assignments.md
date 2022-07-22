@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains descriptions of the written assignment and the
+  final oral presentation.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 5ab1534b-2d25-5904-dbdf-2c41e0234377
 ---
