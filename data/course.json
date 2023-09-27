@@ -37,7 +37,8 @@
     "website": "7-342-how-to-build-an-animal-cell-fate-and-identity-in-development-and-disease-fall-2017"
   },
   "course_title": "How To Build An Animal: Cell Fate and Identity in Development and Disease",
-  "course_description": "In this course, we will explore how animals determine and maintain cell fate. We will discuss changes to DNA structure and packaging, special proteins (known as \"master regulators\") with the ability to alter cell fate via transcription, cell-cell signaling, and RNA localization.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "hide_download": false,
+  "course_description": "In this course, we will explore how animals determine and maintain cell fate. We will discuss changes to DNA structure and packaging, special proteins (known as \"master regulators\") with the ability to alter cell fate via transcription, cell-cell signaling, and RNA localization.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/current-students/subject-offerings/advanced-undergraduate-seminars/) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.",
   "department_numbers": [
     "7"
   ],
@@ -51,6 +52,7 @@
     "Presentation Assignments",
     "Written Assignments"
   ],
-  "site_uid": "ed873c47-b6c2-4bad-b51f-9778ce767d50",
+  "site_uid": "4035bce2-eb54-4849-8a11-bec2bdd131ec",
+  "site_short_id": "7.342-fall-2017",
   "title": "Course Metadata"
 }
