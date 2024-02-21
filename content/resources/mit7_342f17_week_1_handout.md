@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding  week 1 handout.
 file: /courses/7-342-how-to-build-an-animal-cell-fate-and-identity-in-development-and-disease-fall-2017/41eff6d89f3120d59f27d8bb906e4aff_MIT7_342F17_Week_1_handout.pdf
+file_size: 234482
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
