@@ -2,34 +2,31 @@
 content_type: page
 description: This section includes a course description, information on course format
   and expectations, grading, and a calendar.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: ad338f73-b42d-e6ab-6d53-451ff9ace099
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 1 session / week, 2 hours / session
 
-Prerequisites
--------------
+## Prerequisites
 
 Students are expected to have taken at least one of the following courses:
 
-[_7.03 Genetics_](/courses/7-03-genetics-fall-2004)
+[*7.03 Genetics*](/courses/7-03-genetics-fall-2004)
 
-[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007)
+[*7.06 xCell Biology*](/courses/res-7-007-7-06x-cell-biology/)
 
-_or_
+*or*
 
-[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
+[*7.28x Molecular Biology*](/courses/res-7-008-7-28x-molecular-biology/)
 
 Prerequisites may be waived with permission by the instructor.
 
-Course Description
-------------------
+## Course Description
 
 Multicellular organisms develop from single cells that form as a result of fusion between two haploid gametes, e.g., sperm and egg. The fertilized egg, known as a zygote, undergoes a series of dynamic developmental events to give rise to a multitude of cell types, such as neuronal cells in the brain and central nervous system and hematopoietic cells that generate the immune system.
 
@@ -39,219 +36,114 @@ In this course, we will explore how animals determine and maintain cell fate and
 
 Additionally, we will examine the development and maintenance of numerous specialized cell types considering, for example, evolutionarily conserved developmental pathways that lead to a germ cell (sperm or egg) identity as opposed to a somatic (non-germ) cell identity in a variety of animal species. We will discuss crucial somatic developmental pathways, including the restriction of cell fate in differentiating hematopoietic lineages. We will conclude by examining how failure to maintain proper cell fate and identity can lead to disease and consider disorders of sexual development as well as a number of cancers.
 
-Format & Expectations
----------------------
+## Format & Expectations
 
 The goal of this course is to learn how to critically analyze and discuss primary scientific literature. Each week has two primary research papers assigned for required reading. Students should come to class having read both papers thoroughly, and be prepared to discuss and critique each paper. This will entail close examination of both the text and figures presented in the paper, such that the students should be able to comment on the authors' approach, experimental design and control experiments, interpretation of data, and conclusions. Each class will primarily consist of discussion of the assigned papers, with a short segment at the end of each class to introduce background information for the next week's topic.
 
-Assignments
------------
+## Assignments
 
 There will be one short written assignment and a final oral presentation during the course.
 
-Grading
--------
+## Grading
 
 This course is graded pass / fail. As the course is discussion-based, attendance at every class is mandatory and participation is an essential requirement for a passing grade.
 
-Calendar
---------
+## Calendar
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 KEY DATES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Class introduction
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Potency and pluripotent stem cells
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Signatures and mechanisms of pluripotency: Transcriptional networks
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Signatures and mechanisms of pluripotency: Bivalent chromatin domains
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Germ cell identity
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Reprogramming of germ cells and stem cells
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Submit proposed paper for writing assignment to instructors
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Reprogramming soma by pioneer transcription factors
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Defining hematopoietic identities: Part 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Written Assignment due
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Defining hematopoietic identities: Part 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Regulatory mechanisms for immune cell identity: Chromatin and transcription factors
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Regulatory mechanisms for immune cell identity: Cell signaling
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 ﻿12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Disorders of cell identity: The reproductive tract and germ cell identity
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 ﻿﻿13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Disorders of cell identity: Hematopoiesis
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Submit proposed paper for final oral presentation to instructors
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Cellular reprogramming and therapeutics
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Oral presentations and evaluations
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Oral Presentations due
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
