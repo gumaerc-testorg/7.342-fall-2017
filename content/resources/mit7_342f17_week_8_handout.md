@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding  week 8 handout.
-file: /courses/7-342-how-to-build-an-animal-cell-fate-and-identity-in-development-and-disease-fall-2017/0c5da445419639d2e1a9efde2be5b572_MIT7_342F17_Week_8_handout.pdf
+file: /ol-ocw-studio-app/courses/7-342-how-to-build-an-animal-cell-fate-and-identity-in-development-and-disease-fall-2017/0c5da445419639d2e1a9efde2be5b572_MIT7_342F17_Week_8_handout.pdf
 file_size: 256806
 file_type: application/pdf
 learning_resource_types:
